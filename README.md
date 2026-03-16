@@ -146,6 +146,7 @@ while(player):
 
 ## Output
 
+![Output](https://github.com/swetha-1807/wumpus__world/blob/main/Screenshot%202026-03-16%20102731.png)
 
 ## Result
 
